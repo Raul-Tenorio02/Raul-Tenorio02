@@ -1,6 +1,6 @@
-## Hi! I am Raul 👋
+## Oi! Eu sou o Raul 👋
 
-- 🌱 I’m currently learning Java
+- ☕ Atualmente, estou focado em POO com Java!
 
 <div>
   <a href="https://github.com/Raul-Tenorio02">
