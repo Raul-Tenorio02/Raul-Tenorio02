@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Raul 👋
 
-- ☕ Atualmente, estou focado em POO com Java!
+- ☕ Atualmente, estou focado em POO com Java
 
 <div>
   <a href="https://github.com/Raul-Tenorio02">
