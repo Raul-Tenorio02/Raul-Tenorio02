@@ -1,12 +1,5 @@
 ## Oi! Eu sou o Raul 👋
 
-<div>
-  <a href="https://github.com/Raul-Tenorio02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raul-Tenorio02&show_icons=true&theme=midnight-purple"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Tenorio02&theme=midnight-purple&layout=compact&custom_title=Technologies&langs_count=9"/>
-</div>
-
 ## Hard Skills
 
 <div style="display: inline_block"><br>
